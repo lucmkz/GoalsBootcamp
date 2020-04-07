@@ -1,9 +1,9 @@
 <h4 align="center">
   BootCamp Goals and schedule
 </h4>
-<p align="center">
+<h5 align="center">
   Weekly Planning
-</p>
+</h5>
 <p align="center">
  Sunday - 14h / 16h <br />
 Monday - 13h / 17h <br />
@@ -14,9 +14,9 @@ Friday - 13h / 17h <br>
 Saturday ------- <br>
 </p>
 
-<p align="center">
+<h5 align="center">
   Project Planning
-</p>
+</h5>
 <p align="center">
  "Aquecendo os motores" - 
   start - 07/04/2020
