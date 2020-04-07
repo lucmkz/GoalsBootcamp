@@ -31,10 +31,11 @@ Saturday ------- <br>
  "Nível 01"
 </h4>
 <p align="center">
+  Back-End with Node.Js <br />
   start - 08/04/2020 <br /> 
-  End - 08/04/2020 (Back-End with Node.Js) <br />
-  <br />
-  Challenge Back-End (Desafio: Conceitos do Node.js) - <br />
+  End - 08/04/2020 <br />
+  Desafio: Conceitos do Node.js
+  <b>Challenge Back-End</b> - <br />
   start - 09/04/2020 / End - 09/04/2020 <br />
 </p>
 
