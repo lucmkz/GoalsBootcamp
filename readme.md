@@ -34,6 +34,29 @@ Saturday ------- <br>
   start - 08/04/2020 <br /> 
   End - 08/04/2020 (Back-End with Node.Js) <br />
   <br />
+  Challenge Back-End (Desafio: Conceitos do Node.js) - <br />
+  start - 09/04/2020 / End - 09/04/2020 <br />
+</p>
+
+<p align="center">
+  start - 10/04/2020 <br /> 
+  End - 10/04/2020 (Front-end com ReactJs) <br />
+  <br />
+  Challenge Back-End (Desafio: Conceitos do ReactJs) - <br />
+  start - 10/04/2020 / End - 09/04/2020 <br />
+</p>
+
+<p align="center">
+  start - 08/04/2020 <br /> 
+  End - 08/04/2020 (Back-End with Node.Js) <br />
+  <br />
+  Challenge Back-End - <br />
+  start - 09/04/2020 / End - 09/04/2020 <br />
+</p>
+<p align="center">
+  start - 08/04/2020 <br /> 
+  End - 08/04/2020 (Back-End with Node.Js) <br />
+  <br />
   Challenge Back-End - <br />
   start - 09/04/2020 / End - 09/04/2020 <br />
 </p>
