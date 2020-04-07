@@ -4,17 +4,17 @@
 <p align="center">
   Weekly Planning
 
-Sunday - 14h / 16h
-Monday - 13h / 17h
-Tuesday - 13h / 17h
-Wednesday - 13h / 17h
-Thursday - 13h / 17h
-Friday - 13h / 17h
-Saturday -------
+Sunday - 14h / 16h <br>
+Monday - 13h / 17h <br>
+Tuesday - 13h / 17h <br>
+Wednesday - 13h / 17h <br>
+Thursday - 13h / 17h <br>
+Friday - 13h / 17h <br>
+Saturday ------- <br>
 
 </p>
 
-## :rocket
+## :rocket:
 
 ```bash
 $ Go
