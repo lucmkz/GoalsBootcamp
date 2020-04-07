@@ -16,10 +16,10 @@ Saturday ------- <br>
 
 
 
-:rocket:
+
 
 ```bash
 $ Go
 ```
 
-Made by Lucas Santos :wave: [Get in touch!](https://www.linkedin.com/in/lucasmk/)
+Made by Lucas Santos :wave: [Get in touch!](https://www.linkedin.com/in/lucasmk/):rocket:
