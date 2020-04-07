@@ -14,6 +14,14 @@ Friday - 13h / 17h <br>
 Saturday ------- <br>
 </p>
 
+<p align="center">
+  Project Planning
+</p>
+<p align="center">
+ "Aquecendo os motores" - 
+  start - 07/04/2020
+  End - 07/04/2020
+</p>
 
 
 
