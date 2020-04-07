@@ -23,8 +23,7 @@ Saturday ------- <br>
 </h4>
 
  <p align="center">
-  start - 07/04/2020 / 
-  End - 07/04/2020
+  07/04/2020 to 12/04/2020
 </p>
 
 <h4 align="center"> 
