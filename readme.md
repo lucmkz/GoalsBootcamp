@@ -35,15 +35,29 @@ Saturday ------- <br>
   start - 08/04/2020 <br /> 
   End - 08/04/2020 <br />
   <b>Desafio: Conceitos do Node.js</b> <br />
-  start - 09/04/2020 / End - 09/04/2020 <br />
+  Start - 09/04/2020 / End - 09/04/2020 <br />
 </p>
 
 <p align="center">
-  <b>Front-End with ReactJs</b> <br />
+  <b>Front-End com ReactJs</b> <br />
   start - 10/04/2020 <br /> 
   End - 10/04/2020 <br />
   <b>Desafio: Conceitos do ReactJs</b> <br />
-  start - 09/04/2020 / End - 09/04/2020 <br />
+  Start - 10/04/2020 <br /> End - 10/04/2020 <br />
+</p>
+
+<p align="center">
+  <b>Mobile com React Native</b> <br />
+  start - 11/04/2020 <br /> 
+  End - 11/04/2020 <br />
+  <b>Desafio: Conceitos do React Native</b> <br />
+  Start - 11/04/2020 <br /> End - 11/04/2020 <br />
+</p>
+
+<p align="center">
+  <b>TypeScript</b> <br />
+  start - 12/04/2020 <br /> 
+  End - 12/04/2020 <br />
 </p>
 
 
