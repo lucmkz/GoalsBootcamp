@@ -56,7 +56,7 @@ Saturday ------- <br>
 
 <p align="center">
   <b>TypeScript</b> <br />
-  start - 12/04/2020 <br /> 
+  Start - 12/04/2020 <br /> 
   End - 12/04/2020 <br />
 </p>
 
