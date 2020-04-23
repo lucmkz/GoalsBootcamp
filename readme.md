@@ -62,7 +62,7 @@ Saturday ------- <br>
 
 
 ```bash
-$ Go Rocket
+$ Go RocketSeat
 ```
 
 Made by Lucas Santos :wave: [Get in touch!](https://www.linkedin.com/in/lucasmk/):rocket:
